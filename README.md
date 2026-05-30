@@ -342,8 +342,8 @@ The event handler wires it to the client automatically.
 
 - **Owner:** Paradox
 - **Developers:** Dray, Deepjoyti
-- **Support Team:** HellFire
-- **Support Server:** https://discord.gg/DJxHfWGyr9
+- **Support Team:** Priyanshu
+- **Support Server:** https://discord.gg/FBUEj8daSk
 
 Built with [discord.js](https://discord.js.org), [mongoose](https://mongoosejs.com), [ms](https://www.npmjs.com/package/ms), [chalk](https://www.npmjs.com/package/chalk), [moment](https://momentjs.com), [dayjs](https://day.js.org), [axios](https://axios-http.com), and [canvas](https://www.npmjs.com/package/canvas).
 
